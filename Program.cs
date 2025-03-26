@@ -15,7 +15,7 @@ internal class Program
   / /_|  __/ | | |____) | |_) | (_) | (_) | ||  __/ |   
  /_____\___|_| |_|_____/| .__/ \___/ \___/|_| \___|_|   
                         | |                             
-                        |_| Made by https://github.com/GabryB03/                             
+                        |_| Made by https://github.com/ZygoteCode/                             
 
 ");
 
